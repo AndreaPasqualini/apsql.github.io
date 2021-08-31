@@ -25,4 +25,4 @@ You can read more about me in the [About page](/_pages/about.md).
 
 ## Contacts
 
-Email: [andrea.pasqualini@unibocconi.it](mailto:andrea.pasqualini@unibocconi.it)
+Email: [andrea.pasqualini@economics.ox.ac.uk](mailto:andrea.pasqualini@economics.ox.ac.uk)
