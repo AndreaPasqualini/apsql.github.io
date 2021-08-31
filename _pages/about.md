@@ -13,7 +13,6 @@ Think of it as an extended, modern CV.
 
 You can find me on [GitHub](https://github.com/apsql/) and [Twitter](https://twitter.com/apsql), where you will find I prefer sharing code than tweets.
 You can find my webpage on Bocconi's website [here](http://didattica.unibocconi.eu/docenti/cv.php?rif=185848&cognome=PASQUALINI&nome=ANDREA), although it is not very interesting.
-I am also listed among Bocconi's [current PhD students](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/phd+students/copia+di+current+phd+students+in+economics+_+finance_acquati+2011+09+30+11+21), where you can find my other peers in our PhD.
 
 This website is organized according to typical practices in Academia.
 This means that you will find the usual [research](research.md), [teaching](teaching.md) and [CV](cv.md) sections.
