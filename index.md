@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome!
 
-I am Andrea Pasqualini, a PhD graduate in Economics and Finance at Bocconi University.
+I am a Career Development Fellow at the University of Oxford.
 {: .fs-6 .fw-300 }
 
 <img src="/assets/img/picture.jpg" align="right" alt="Profile picture" class="inline" style="width:50%;padding-left:5%;">
