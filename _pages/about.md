@@ -7,7 +7,7 @@ nav_order: 7
 
 # About Me
 
-I am Andrea Pasqualini, a PhD Candidate in Economics at [Bocconi University](https://www.unibocconi.eu/).
+I am Andrea Pasqualini, a Career Development Fellow at the Department of Economics, University of Oxford.
 This is my personal website.
 Think of it as an extended, modern CV.
 
