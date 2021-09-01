@@ -1,7 +1,7 @@
 # Personal Website
 
 This repository hosts my personal website.
-GitHub serves [andreapasqualini.github.io](https://andreapasqualini.github.io) using the files in this repo.
+GitHub serves [andrea.pasqualini.io](https://andrea.pasqualini.io) using the files in this repo.
 If you are interested in learning more about me, then this repo is useless to you.
 If, instead, you want to learn how I did this website, then read on.
 
@@ -14,8 +14,8 @@ To have an overview of the steps to build, see the [Help page on GitHub](https:/
 To start a local build of the website, run the following
 
 ```bash
-$ git clone https://github.com/apsql/apsql.github.io.git
-$ cd apsql.github.io
+$ git clone https://github.com/AndreaPasqualini/andreapasqualini.github.io.git
+$ cd andreapasqualini.github.io
 $ bundle install  # satisfies Ruby dependencies
 $ bundle exec jekyll serve  # starts local website preview
 ```
