@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
-nav_order: 6
+nav_order: 5
 ---
 
 # Curriculum Vitae ([download](../assets/cv/cv.pdf))

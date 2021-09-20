@@ -2,7 +2,7 @@
 layout: page
 title: Job Market Paper
 permalink: /jm-paper/
-nav_order: 2
+nav_exclude: true
 ---
 
 # Job Market Paper
